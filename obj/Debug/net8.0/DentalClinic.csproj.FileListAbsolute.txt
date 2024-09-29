@@ -1,0 +1,14 @@
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\obj\Debug\net8.0\DentalClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\obj\Debug\net8.0\DentalClinic.AssemblyInfoInputs.cache
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\obj\Debug\net8.0\DentalClinic.AssemblyInfo.cs
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\obj\Debug\net8.0\DentalClinic.csproj.CoreCompileInputs.cache
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\bin\Debug\net8.0\DentalClinic.exe
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\bin\Debug\net8.0\DentalClinic.deps.json
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\bin\Debug\net8.0\DentalClinic.runtimeconfig.json
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\bin\Debug\net8.0\DentalClinic.dll
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\bin\Debug\net8.0\DentalClinic.pdb
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\obj\Debug\net8.0\DentalClinic.dll
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\obj\Debug\net8.0\refint\DentalClinic.dll
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\obj\Debug\net8.0\DentalClinic.pdb
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\obj\Debug\net8.0\DentalClinic.genruntimeconfig.cache
+C:\Users\aryab\OneDrive\Desktop\dotnet\DentalClinic\obj\Debug\net8.0\ref\DentalClinic.dll
